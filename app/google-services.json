@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "74857539763",
+    "firebase_url": "https://arctic-signer-214713.firebaseio.com",
+    "project_id": "arctic-signer-214713",
+    "storage_bucket": "arctic-signer-214713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74857539763:android:3237a5f85bf2a268e828c6",
+        "android_client_info": {
+          "package_name": "com.example.gappeinclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74857539763-jv0pu001gl9pav95a44cc21regbi1m46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0xwUdHJQvKdQW_JOrk_dv9zcMZ8AWcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74857539763-jv0pu001gl9pav95a44cc21regbi1m46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74857539763:android:4899097916cdf744e828c6",
+        "android_client_info": {
+          "package_name": "com.gappein.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74857539763-jv0pu001gl9pav95a44cc21regbi1m46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0xwUdHJQvKdQW_JOrk_dv9zcMZ8AWcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74857539763-jv0pu001gl9pav95a44cc21regbi1m46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74857539763:android:67b068666571ef19e828c6",
+        "android_client_info": {
+          "package_name": "com.glitch.babynames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74857539763-jv0pu001gl9pav95a44cc21regbi1m46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0xwUdHJQvKdQW_JOrk_dv9zcMZ8AWcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74857539763-jv0pu001gl9pav95a44cc21regbi1m46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
